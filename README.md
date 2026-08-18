@@ -271,7 +271,7 @@ curl http://localhost:8000/api/v1/health
 
 ## License
 
-MIT License - see LICENSE file for details
+This project is proprietary. All rights reserved.
 
 ## Support
 
