@@ -271,12 +271,4 @@ curl http://localhost:8000/api/v1/health
 
 ## License
 
-This project is proprietary. All rights reserved.
-
-## Support
-
-For issues and questions:
-
-- Create an issue on GitHub
-- Check the API documentation at `/docs`
-- Review the logs for debugging
+Free to use. You may use, copy, modify, and share this project for any purpose.
