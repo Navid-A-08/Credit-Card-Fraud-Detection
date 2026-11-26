@@ -271,4 +271,4 @@ curl http://localhost:8000/api/v1/health
 
 ## License
 
-Free to use. You may use, copy, modify, and share this project for any purpose.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for the full text.
